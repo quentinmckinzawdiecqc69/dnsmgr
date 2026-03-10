@@ -1,0 +1,10 @@
+.git
+.github
+*.md
+composer.lock
+runtime
+.env
+.env.*
+!.example.env
+.DS_Store
+Thumbs.db
